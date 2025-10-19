@@ -38,13 +38,13 @@ const Projects = () => {
               <img src={project.img} alt={project.title} />
             </div>
             <h3>{project.title}</h3>
-            <project>
+            <div>
               {project.desc}
               <br />
               <strong>Showcases:</strong> {project.showcases}
               <br />
               <strong>Bonus:</strong> {project.bonus}
-            </project>
+            </div>
             <a href={project.link} className="project-link" target="_blank">
               View Project
             </a>
