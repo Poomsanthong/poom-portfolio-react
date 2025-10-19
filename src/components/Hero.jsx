@@ -1,6 +1,6 @@
 import React from "react";
-import pofilePic from "../assets/Poom-pic.jpeg";
-import cv from "../assets/Cv Frontend Dev.pdf";
+import pofilePic from "/assets/Poom-pic.jpeg";
+import cv from "/assets/Cv Frontend Dev.pdf";
 const Hero = () => {
   return (
     <section className="hero" id="home">
