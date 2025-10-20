@@ -8,7 +8,7 @@ const Projects = () => {
       desc: "A fun and interactive matching game built with JavaScript. Flip cards to find matching pairs.",
       showcases: "JavaScript (DOM manipulation), event handling, game logic",
       bonus: "Timer and move counter for added challenge",
-      link: "Mini-Game/index.html",
+      link: "https://matching-game-cyan.vercel.app/",
     },
     {
       title: "Interactive Menu",
