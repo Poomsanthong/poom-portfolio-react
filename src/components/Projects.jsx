@@ -6,7 +6,8 @@ const Projects = () => {
       title: "Matching Game",
       img: "../assets/Matching-game.png",
       desc: "A fun and interactive matching game built with JavaScript. Flip cards to find matching pairs.",
-      showcases: "JavaScript (DOM manipulation), event handling, game logic",
+      showcases:
+        "State management with useState and useEffect , Dynamic rendering and responsive UI, Event handling for card flips and question controls ",
       bonus: "Timer and move counter for added challenge",
       link: "https://matching-game-cyan.vercel.app/",
     },
