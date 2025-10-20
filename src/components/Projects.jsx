@@ -17,7 +17,7 @@ const Projects = () => {
       desc: "Interactive menu for a restaurant built with HTML, CSS, and JavaScript.",
       showcases: "DOM manipulation, event handling, responsive design",
       bonus: "Filterable categories and smooth animations",
-      link: "Interactive-menu/index.html",
+      link: "https://porfolio-sbxn.vercel.app/",
     },
     {
       title: "Movie Finder App",
