@@ -6,6 +6,7 @@ import Navbar from "./components/Navbar";
 import Projects from "./components/Projects";
 import Skills from "./components/Skills";
 import { useEffect } from "react";
+import { Analytics } from "@vercel/analytics/react";
 
 function App() {
   // Smooth scrolling
@@ -36,6 +37,7 @@ function App() {
       <Skills />
       <Contact />
       <Footer />
+      <Analytics />
     </>
   );
 }
