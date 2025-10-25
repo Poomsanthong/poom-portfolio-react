@@ -35,6 +35,36 @@ const About = () => {
           </div>
         </div>
       </div>
+
+      <div className="certificates-section">
+        <h3>Certifications</h3>
+        <div className="certificates-grid">
+          <a
+            href="/assets/certificates/ACP Certificate.pdf"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="certificate-card"
+          >
+            <div className="certificate-content">
+              <i className="fas fa-certificate"></i>
+              <h4>Adobe Certificate Professional</h4>
+              <p>Ice Malta - 2025</p>
+            </div>
+          </a>
+          <a
+            href="/assets/certificates/Frontend-Dev-Certificate.pdf"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="certificate-card"
+          >
+            <div className="certificate-content">
+              <i className="fas fa-certificate"></i>
+              <h4>Frontend Development Certificate</h4>
+              <p>Ice Malta - 2025</p>
+            </div>
+          </a>
+        </div>
+      </div>
     </section>
   );
 };
