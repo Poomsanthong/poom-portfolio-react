@@ -7,8 +7,8 @@ const Hero = () => {
       <div className="hero-content">
         <h1>Welcome to My Portfolio</h1>
         <p className="highlight">
-          I’m a passionate web developer who loves turning ideas into beautiful,
-          functional websites.
+          I build websites that people love to use. Clean code, smooth design,
+          and great user experience that's what I do best.
         </p>
         <a href={cv} download className="btn-cv">
           Download CV

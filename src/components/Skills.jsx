@@ -42,6 +42,21 @@ const Skills = () => {
       title: "Design Tools",
       desc: "Basic Figma & Adobe XD for UI design",
     },
+    {
+      icon: "fab fa-codepen",
+      title: "Tailwind CSS",
+      desc: "Utility-first CSS framework for rapid UI development",
+    },
+    {
+      icon: "fas fa-layer-group",
+      title: "Next.js - in progress",
+      desc: "React framework for production-grade applications",
+    },
+    {
+      icon: "fas fa-cloud",
+      title: "Vercel",
+      desc: "Deployment platform for modern web applications",
+    },
   ];
 
   return (

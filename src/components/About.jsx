@@ -5,18 +5,15 @@ const About = () => {
     <section className="about" id="about">
       <h2>About Me</h2>
       <p>
-        I'm a Frontend Developer with 1 year of experience in building
-        responsive and accessible web applications. I love creating
-        user-friendly interfaces and ensuring a seamless user experience through
-        clean code and beautiful designs.
+        I'm a Frontend Developer with 2 years of experience building websites
+        that work well and look great. I focus on writing clean code and
+        creating designs that users enjoy.
         <br />
         <br />
-        My web development journey started with a strong foundation in HTML,
-        CSS, and JavaScript, and has since expanded to include modern frameworks
-        like React and tools like Git.
+        I started with HTML, CSS, and JavaScript, then moved on to modern tools
+        like React and Next.js. I'm always learning and improving my skills.
         <br />
-        <br />I have successfully completed professional courses in web
-        development and design by{" "}
+        <br />I completed professional web development courses at{" "}
         <a href="https://icecampus.com" target="_blank">
           Ice Malta
         </a>
@@ -26,7 +23,7 @@ const About = () => {
       <div className="experience-stats">
         <div className="stat-grid">
           <div className="stat-card">
-            <h3>1+</h3>
+            <h3>2+</h3>
             <p>Years of Experience</p>
           </div>
           <div className="stat-card">
