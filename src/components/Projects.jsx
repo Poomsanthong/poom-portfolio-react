@@ -30,13 +30,22 @@ const Projects = () => {
       link: "https://react-movie-1392evspw-poom-s-projects-177e0ca6.vercel.app",
     },
     {
+      title: "Thai Restaurant Website - Landing Page",
+      img: "/assets/Thai-site.png",
+      desc: "A visually appealing and user-friendly landing page for a Thai restaurant, showcasing the menu, ambiance, and contact information.",
+      showcases:
+        "Responsive design with CSS Flexbox and Grid, Smooth scrolling navigation, High-quality images and typography, Contact form integration",
+      bonus: "Dark Mode and mobile-friendly layout",
+      link: "https://restaurant-website-landing-page.vercel.app/",
+    },
+    {
       title: "Real-Time Stock Market",
       img: "/assets/stock-market.jpg",
       desc: "Real-Time Stock App Live prices, smart alerts, AI insights, charts, news, and custom watchlists powered by Next.js, ",
       showcases:
         "Next.js 13 App Router, Real-time WebSocket integration, TradingView charts API, Tailwind CSS for styling, Server-side rendering",
       bonus: "AI-powered market insights and alerts",
-      link: "#",
+      link: "",
       status: "in progress",
     },
   ];
