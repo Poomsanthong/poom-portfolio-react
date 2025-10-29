@@ -34,7 +34,7 @@ const Projects = () => {
       img: "/assets/Thai-site.png",
       desc: "A visually appealing and user-friendly landing page for a Thai restaurant, showcasing the menu, ambiance, and AOS animations.",
       showcases:
-        "Responsive design with CSS Flexbox and Grid, Smooth scrolling navigation, High-quality images and typography, Contact form integration",
+        "Responsive design with CSS Flexbox and Grid, Smooth scrolling navigation, High-quality images and typography, AOS animations for engaging user experience",
       bonus: "Dark Mode and mobile-friendly layout",
       link: "https://restaurant-website-landing-page.vercel.app/",
     },
@@ -56,13 +56,13 @@ const Projects = () => {
       <div className="projects-grid">
         {projectData.map((project, i) => (
           <div key={i} className="project-card">
+            "
             <div className="project-img-container">
               <img src={project.img} alt={project.title} />
             </div>
             <h3>
               {project.title} <br /> {project.status && "(In Progress)"}
             </h3>
-
             <div className="project-content">
               <p className="project-description">{project.desc}</p>
 
