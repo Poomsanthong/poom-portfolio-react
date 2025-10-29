@@ -32,7 +32,7 @@ const Projects = () => {
     {
       title: "Thai Restaurant Website - Landing Page",
       img: "/assets/Thai-site.png",
-      desc: "A visually appealing and user-friendly landing page for a Thai restaurant, showcasing the menu, ambiance, and contact information.",
+      desc: "A visually appealing and user-friendly landing page for a Thai restaurant, showcasing the menu, ambiance, and AOS animations.",
       showcases:
         "Responsive design with CSS Flexbox and Grid, Smooth scrolling navigation, High-quality images and typography, Contact form integration",
       bonus: "Dark Mode and mobile-friendly layout",
